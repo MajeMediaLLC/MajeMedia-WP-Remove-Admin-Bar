@@ -13,7 +13,7 @@ Domain Path: /languages
 Text Domain: mm-remove-admin-toolbar
 */
 
-if( ! defined( 'ABSPATH' ) ) {
+if ( ! defined( 'ABSPATH' ) ) {
 	die();
 }
 
@@ -38,16 +38,16 @@ class MajeMedia_WP_Remove_Admin_Bar {
 	 */
 	public function __construct() {
 
-		$this->filters();
+		add_filter( 'show_admin_bar', [ 'MajeMedia_WP_Remove_Admin_Bar', 'remove_admin_bar' ] );
 
 	}
 
 	/*
 	 * @since v1.0
 	 */
-	public function filters() {
+	public static function remove_admin_bar() {
 
-		add_filter( 'show_admin_bar', '__return false' );
+		return FALSE;
 
 	}
 

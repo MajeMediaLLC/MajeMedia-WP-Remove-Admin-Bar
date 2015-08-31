@@ -38,14 +38,14 @@ class MajeMedia_WP_Remove_Admin_Bar {
 	 */
 	public function __construct() {
 
-		add_filter( 'show_admin_bar', [ 'MajeMedia_WP_Remove_Admin_Bar', 'remove_admin_bar' ] );
+		add_filter( 'show_admin_bar', [ 'MajeMedia_WP_Remove_Admin_Bar', 'show_admin_bar' ] );
 
 	}
 
 	/*
 	 * @since v1.0
 	 */
-	public static function remove_admin_bar() {
+	public static function show_admin_bar() {
 
 		return FALSE;
 

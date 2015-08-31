@@ -3,7 +3,7 @@ Contributors: majemedia
 Tags: toolbar
 Requires at least: 4.3
 Tested up to: 4.3
-Stable tag: 0.1
+Stable tag: 1.0
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,6 +16,10 @@ Removing or requiring removal of the admin toolbar from display on the front end
 1. Add this plugin or upload the .zip file
 2. Activate plugin
 
+== Screenshots ==
+1. Here's what your front end looks like when the plugin is deactivated
+2. Here's the plugin when activated. No toolbar.
+
 == Changelog ==
-# v0.1:
+# v1.0:
 - Created plugin

@@ -3,7 +3,7 @@ Contributors: majemedia
 Tags: toolbar
 Requires at least: 4.3
 Tested up to: 4.5
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,7 +23,7 @@ Github project: https://github.com/majemedia/MajeMedia-WP-Remove-Admin-Bar
 2. Here's the plugin when activated. No toolbar.
 
 == Changelog ==
-= v1.0.5 =
+= v1.0.6 =
 * Fixed issue with PHP 5.2 errors due to newer array usage
 * Updated tested to WordPress version.
 

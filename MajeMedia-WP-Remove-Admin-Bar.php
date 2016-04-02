@@ -38,7 +38,7 @@ class MajeMedia_WP_Remove_Admin_Bar {
 	 */
 	public function __construct() {
 
-		add_filter( 'show_admin_bar', [ 'MajeMedia_WP_Remove_Admin_Bar', 'show_admin_bar' ] );
+		add_filter( 'show_admin_bar', array( 'MajeMedia_WP_Remove_Admin_Bar', 'show_admin_bar' ) );
 
 	}
 

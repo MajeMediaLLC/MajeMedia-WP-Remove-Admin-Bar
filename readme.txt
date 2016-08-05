@@ -2,7 +2,7 @@
 Contributors: majemedia
 Tags: toolbar
 Requires at least: 4.3
-Tested up to: 4.6-RC1-38170
+Tested up to: 4.6
 Stable tag: 1.0.7
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

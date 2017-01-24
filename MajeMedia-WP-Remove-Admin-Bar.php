@@ -4,7 +4,7 @@
 Plugin Name: Maje Media Remove Admin Toolbar
 Plugin URI:  https://majemedia.com/plugins/remove-admin-toolbar
 Description: When activated; this plugin removes the admin toolbar from all users.
-Version:     1.0.10
+Version:     1.1.0
 Author:      Maje Media LLC
 Author URI:  https://majemedia.com
 License:     GPL2
@@ -38,7 +38,7 @@ class MajeMedia_WP_Remove_Admin_Bar {
 	 */
 	public function __construct() {
 
-		add_filter( 'show_admin_bar', array( 'MajeMedia_WP_Remove_Admin_Bar', 'show_admin_bar' ) );
+		add_filter( 'show_admin_bar', array( 'MajeMedia_WP_Remove_Admin_Bar', 'show_admin_bar' ), PHP_INT_MAX );
 
 	}
 

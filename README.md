@@ -6,6 +6,9 @@ When activated; This plugin removes the admin bar from logged in user displays o
 Plugin homepage: https://majemedia.com/plugins/remove-admin-toolbar/
 
 ## Changelog
+### 1.1.1:
+* Tested to WordPress 4.8
+
 ### 1.1.0:
 * Priority added for compatibility issues with other plugins
 

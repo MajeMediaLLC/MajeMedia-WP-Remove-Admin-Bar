@@ -1,9 +1,9 @@
-=== Maje Media Remove Admin Toolbar ===
+=== Remove Admin Toolbar ===
 Contributors: majemedia
 Tags: toolbar
 Requires at least: 4.3
-Tested up to: 4.9
-Stable tag: 1.1.2
+Tested up to: 5.2.2
+Stable tag: 1.1.3
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Removes the toolbar from the front-end for all users when activated.
 == Description ==
 Removing or requiring removal of the admin toolbar from display on the front end of your website is tedious. This plugin uses a built-in Wordpress filter (show_admin_bar) to disable it globally.
 
-Github project: https://github.com/majemedia/MajeMedia-WP-Remove-Admin-Bar
+[Github project](https://github.com/majemedia/MajeMedia-WP-Remove-Admin-Bar)
 
 == Installation ==
 1. Add this plugin or upload the .zip file
@@ -23,6 +23,11 @@ Github project: https://github.com/majemedia/MajeMedia-WP-Remove-Admin-Bar
 2. Here's the plugin when activated. No toolbar.
 
 == Changelog ==
+= 1.1.3
+* Tested up to WordPress 5.2.2
+* Changed name of Plugin displayed on WordPress.org repo
+* Moved screenshots out of plugin and into /assets directory
+
 = 1.1.2 =
 * Tested up to WordPress 4.9
 

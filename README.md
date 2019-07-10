@@ -1,11 +1,25 @@
-# MajeMedia-WP-Remove-Admin-Bar
+# WordPress: Remove Admin Toolbar
+
+<p align='center'>
+<img src="https://raw.githubusercontent.com/MajeMediaLLC/MajeMedia-WP-Remove-Admin-Bar/master/assets/banner-1544x500.png" alt='WordPress: No Admin Bar' title="by: Maje Media LLC">
+</p>
+
 Remove the top admin bar
 
 When activated; This plugin removes the admin bar from logged in user displays on the front-end of the site. Globally.
 
-Plugin homepage: https://majemedia.com/plugins/remove-admin-toolbar/
+[Plugin homepage](https://majemedia.com/plugins/remove-admin-toolbar/)
+
+[Download From WordPress.org](https://wordpress.org/plugins/maje-media-remove-admin-bar/)
 
 ## Changelog
+### 1.1.3:
+* Tested up to WordPress 5.2.2
+* Changed name of Plugin displayed on WordPress.org repo
+* Moved screenshots out of plugin and into /assets directory
+* Added banner images to assets
+* Added plugin icon to assets
+
 ### 1.1.2:
 * Tested up to WordPress 4.9
 

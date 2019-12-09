@@ -13,6 +13,9 @@ When activated; This plugin removes the admin bar from logged in user displays o
 [Download From WordPress.org](https://wordpress.org/plugins/maje-media-remove-admin-bar/)
 
 ## Changelog
+### 1.1.5
+* Bumping tested up to versions as well as plugin version
+
 ### 1.1.4
 * Tested up to WordPress 5.3
 

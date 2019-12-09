@@ -3,7 +3,7 @@ Contributors: majemedia
 Tags: toolbar
 Requires at least: 4.3
 Tested up to: 5.2.2
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,6 +23,9 @@ Removing or requiring removal of the admin toolbar from display on the front end
 2. Here's the plugin when activated. No toolbar.
 
 == Changelog ==
+= 1.1.4
+* Tested up to WordPress 5.3
+
 = 1.1.3
 * Tested up to WordPress 5.2.2
 * Changed name of Plugin displayed on WordPress.org repo
